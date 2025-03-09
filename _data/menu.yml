@@ -4,9 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: ma economics student at ashoka university.
-      - title: interests: macroeconomics and computing. 
-      - title: python, julia, r. 
+        - title: ma economics student at ashoka university.
+        - title: interests: macroeconomics, computing, chess. 
       
  - title: all posts
     post_list:
