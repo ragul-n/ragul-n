@@ -4,10 +4,11 @@
 entries:
   - title: info
     entries:
-        - title: ma economics student at ashoka university.
-        - title: interests: macroeconomics, computing, chess. 
-      
- - title: all posts
+      - title: ma economics student at ashoka university 
+      - title: macroeconomics, computing and chess 
+      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
@@ -34,4 +35,3 @@ entries:
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
-
