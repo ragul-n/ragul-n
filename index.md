@@ -3,8 +3,9 @@ layout: home
 ---
 
 ---
-resources
-**podcasts**
+### resources
+
+#### podcasts
 1. amit verma's seen and the unseen
 2. struthi rajagopalan's ideas of india
 3. amit verma and ajay shah's everything is everything (video) (highly recommended)
@@ -13,8 +14,7 @@ resources
 6. ft's economics show
 
 
-
-**blogs** \
+#### blogs \
 tools: inoreader (rss reader), kill-the-newsletter.com 
 
 1. paul krugman wonks out 
@@ -33,7 +33,7 @@ india:
 13. the leap blog
 14. the core newsletter 
 	
-**macroeconomics**
+#### macroeconomics
 
 1. fun readings: mankiw (2006), blanchard (2000), woodford (1999)
 2. core: phdmacrobook, acemoglue
@@ -43,45 +43,48 @@ india:
 6. lecture notes: crish carrol, jesús fernández-villaverde, 
 7. other books: big ideas in macroeconomics, histroy of macroeconomics, economic ideas \
     
-**measure theory**
+#### measure theory
 
 1. toa (or $\tau$) lecture notes
 2. rana
 3. axler 
 4. iit-madras course (measure theory and probability for engineers) \
     
-**differential equations **
+#### differential equations
 
 1. mit course 
-2. steve brunton's course 
+2. steve brunton's course
+3. non-linear dynamical systems by steven strogatz
+4. [love affiers and differential equations](https://ai.stanford.edu/~rajatr/articles/SS_love_dEq.pdf) by steven strogatz
 	   
-**reinforcement learning ** 
+#### reinforcement learning 
 
 1. neuro-dynamic programming 
 2. [chi jin's foundations of rl](https://sites.google.com/view/cjin/teaching/ece524)
 3.  intro to rl book 
 
-**machine learning**
+#### machine learning
 
 1. andrew ng's lecture notes
 
-**time series**
+#### time series
 
 1. john cochrane's time series for macroeconomists 
 2. introduction to difference equations by saber elaydi 
 3. enders 
 4. hamilton \
     
-**youtube**
+#### youtube
 
 1. vertasium 
 2. 3blue1brown 
 3. steve brunton (engineering math, dynamical systems)
 4. jason bramburger \
   
-**microeconomics**
+#### microeconomics
 
 1. rubinstein's lecture notes
+2. the evolution of cooperation by robert axelrod
 
 ---
 quotes: 
