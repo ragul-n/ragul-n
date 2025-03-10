@@ -24,12 +24,6 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: quotes 
-    entries:
-      - title: “ideas shape the course of history.” - keynes 
-      - title: “the difficulty lies not so much in developing new ideas as in escaping from old ones.” - keynes 
-      - title: “once one starts to think about growth, it is hard to think about anything else” - lucas 
-  
   # - title: PRO TIP
   #   entries:
   #     - title: to edit this menu, edit _data/menu.yml file
