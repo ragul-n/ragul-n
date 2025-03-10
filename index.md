@@ -45,7 +45,7 @@ india:
     
 #### measure theory
 
-1. toa (or $$\tau$$) lecture notes
+1. terence tao (or $$\tau$$) lecture notes
 2. rana
 3. axler 
 4. iit-madras course (measure theory and probability for engineers) \
