@@ -58,9 +58,10 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 4. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
 5. heterogenous agent models: 
    1. durdhal's adv. macro course [^druedahl] [🔗](https://sites.google.com/view/numeconcph-advmacrohet/home?authuser=)
-   2.  ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
-   3.  jesús fernández-villaverde [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
-   4.  ch. 10, phdmacrobook  
+   2. ch. 10, phdmacrobook  
+   3.  ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
+   4.  jesús fernández-villaverde [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
+
 
 6. other lecture notes: 
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
@@ -70,7 +71,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
    2. big ideas in macroeconomics, kartik athreya
  [🔗](https://mitpress.mit.edu/9780262528306/big-ideas-in-macroeconomics/) 
-   3. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
+   1. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
 
 #### measure theory
 
