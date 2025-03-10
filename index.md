@@ -4,7 +4,7 @@ layout: home
 
 ---
 resources
-**podcasts **
+**podcasts**
 
 	1. amit verma's seen and the unseen
 	2. struthi rajagopalan's ideas of india 
