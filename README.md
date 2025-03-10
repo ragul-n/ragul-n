@@ -2,8 +2,8 @@
 
 [![Gem Version](https://badge.fury.io/rb/no-style-please.svg)](https://badge.fury.io/rb/no-style-please)
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
-Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
+`<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />`A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
+Inspired by [elly&#39;s site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
 
 <h3 align="center"><a href="https://riggraz.dev/no-style-please/">Try the demo out!</a></h3>
 
@@ -13,7 +13,12 @@ Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my p
 
 * Fast (**1kb of CSS!** For more information on performance and more, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
 * Light, dark and auto modes
-* Responsive
+* Res
+  ```
+
+  ```
+
+  ponsive
 * Content first (typography optimized for maximum readability)
 * SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
@@ -53,7 +58,7 @@ If you want to use this theme for your Jekyll's site deployed on [GitHub Pages](
 
 You can edit `_config.yml` file to customize your blog. You can change things such as the name of the blog, the author, the appearance of the theme (light, dark or auto), how dates are formatted, etc. Customizable fields should be straightforward to understand. Still, `_config.yml` contains some comments to help you understand what each field does.
 
-For further customization (e.g. layout, CSS) see the [official Jekyll's documentation](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) on customizing gem-based themes.
+For further customization (e.g. layout, CSS) see the [official Jekyll&#39;s documentation](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) on customizing gem-based themes.
 
 ### Customize the menu
 
@@ -64,15 +69,15 @@ The `menu.yml` file accepts the following fields:
 - `entries` define a new unordered list that will contain menu entries
 - each entry is marked by a `-` at the beginning of the line
 - each entry can have the following attributes:
-    - `title`, which defines the text to render for this menu entry (**NB: you can also specify HTML!**)
-    - `url`, which can be used to specify an URL for this entry. If not specified, `title` will be rendered as-is; otherwise `title` will be sorrounded by a link tag pointing to the specified URL. Note that the URL can either be relative or absolute. Also note that you can get the same result by placing an ```<a>``` tag in the `title` field.
-    - `post_list`, which can be set either to `true` or to an object. If it is true, the entry will have a list of all posts as subentries. This is used to render your post list. If you want to customize which posts to render (e.g. by category), you can add one or more of the following attributes under `post_list`:
-        - `category`, which can be set to a string. It is used to render a list of posts of the specified category only. If you don't set it, then posts of all categories will be rendered.
-        - `limit`, which can be set to a number. It specifies the number of posts to show. If not set, all posts will be rendered.
-        - `show_more`, which can be true. If it is true and if the number of posts to show is greater than the specified `limit`, render a link to another page. To specify the URL and the text of the link, you can set `show_more_url` and `show_more_text` attributes, which are documented below.
-        - `show_more_url`, which can be a string. It specifies the URL for the show more link. Use only if `show_more` is true. This will usually redirect to a page containing all posts, which you can easily create using an archive page (see [create archive pages](#create-archive-pages) section)
-        - `show_more_text`, which can be a string. It specifies the text for the show more link. Use only if `show_more` is true.
-    - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
+  - `title`, which defines the text to render for this menu entry (**NB: you can also specify HTML!**)
+  - `url`, which can be used to specify an URL for this entry. If not specified, `title` will be rendered as-is; otherwise `title` will be sorrounded by a link tag pointing to the specified URL. Note that the URL can either be relative or absolute. Also note that you can get the same result by placing an ``<a>`` tag in the `title` field.
+  - `post_list`, which can be set either to `true` or to an object. If it is true, the entry will have a list of all posts as subentries. This is used to render your post list. If you want to customize which posts to render (e.g. by category), you can add one or more of the following attributes under `post_list`:
+    - `category`, which can be set to a string. It is used to render a list of posts of the specified category only. If you don't set it, then posts of all categories will be rendered.
+    - `limit`, which can be set to a number. It specifies the number of posts to show. If not set, all posts will be rendered.
+    - `show_more`, which can be true. If it is true and if the number of posts to show is greater than the specified `limit`, render a link to another page. To specify the URL and the text of the link, you can set `show_more_url` and `show_more_text` attributes, which are documented below.
+    - `show_more_url`, which can be a string. It specifies the URL for the show more link. Use only if `show_more` is true. This will usually redirect to a page containing all posts, which you can easily create using an archive page (see [create archive pages](#create-archive-pages) section)
+    - `show_more_text`, which can be a string. It specifies the text for the show more link. Use only if `show_more` is true.
+  - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
 
 ### Create archive pages
 
@@ -122,4 +127,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `no-style
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
