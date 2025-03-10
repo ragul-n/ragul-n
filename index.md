@@ -5,17 +5,15 @@ layout: home
 ---
 resources
 **podcasts**
-
 	1. amit verma's seen and the unseen
 	2. struthi rajagopalan's ideas of india 
 	3. amit verma and ajay shah's everything is everything (video) (highly recommended)
 	4.  macro musing 
 	5. capitalism and freedom in 21st century 
 	6. ft's economics show
- 
-**blogs** 
-   tools: inoreader (rss reader), kill-the-newsletter.com 
-   
+	 
+**blogs** \
+tools: inoreader (rss reader), kill-the-newsletter.com 
 	1. paul krugman wonks out 
 	2. noahpinion 
 	3. marginal revolution 
@@ -33,7 +31,6 @@ resources
 	14. the core newsletter 
 	
 **macroeconomics**
-
 	1. fun readings: mankiw (2006), blanchard (2000), woodford (1999)
 	2. core: phdmacrobook, acemoglue
 	3. recursive economic theory: stocky & lucus, sargent & ljungqvist
@@ -43,48 +40,40 @@ resources
 	7. other books: big ideas in macroeconomics, histroy of macroeconomics, economic ideas \
     
 **measure theory**
-
 	1. toa (or $\tau$) lecture notes
 	2. rana
 	3. axler 
 	4. iit-madras course (measure theory and probability for engineers) \
     
 **differential equations **
-
 	1. mit course 
 	2. steve brunton's course 
 	   
 **reinforcement learning ** 
-
 	1. neuro-dynamic programming 
 	2. [chi jin's foundations of rl](https://sites.google.com/view/cjin/teaching/ece524)
 	3.  intro to rl book 
     
 **machine learning**
-
 	1. andrew ng's lecture notes
 
 **time series**
-
 	1. john cochrane's time series for macroeconomists 
 	2. introduction to difference equations by saber elaydi 
 	3. enders 
 	4. hamilton \
     
 **youtube**
-
 	1. vertasium 
 	2. 3blue1brown 
 	3. steve brunton (engineering math, dynamical systems)
 	4. jason bramburger \
   
 **microeconomics**
-
 	1. rubinstein's lecture notes
 
 ---
 quotes: 
-
 	1. “ideas shape the course of history.” - keynes
 	2. “the difficulty lies not so much in developing new ideas as in escaping from old ones.” - keynes
 	3.  “once one starts to think about growth, it is hard to think about anything else” - lucas 
