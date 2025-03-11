@@ -62,13 +62,13 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    1. durdhal's adv. macro course [^druedahl] [🔗](https://sites.google.com/view/numeconcph-advmacrohet/home?authuser=)
    2. ch. 10, phdmacrobook  
    3.  ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
-   4.  jesús fernández-villaverde [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
+   4.  jesús fernández-villaverde notes [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
 
 
 6. other lecture notes: 
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
    2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-   3. vivaldo mende's notes on 'computational methods for macroeconomics'  [🔗](https://sites.google.com/iscte-iul.pt/advancedmacroeconomics2/slides-readings/0-computation-introduction-to-julia?authuser=0)
+   3. vivaldo mende's adv. macro notes  [🔗](https://sites.google.com/iscte-iul.pt/advancedmacroeconomics2/slides-readings/0-computation-introduction-to-julia?authuser=0)
 7. other books: 
    1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
    2. big ideas in macroeconomics, kartik athreya
@@ -77,16 +77,16 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 
 #### measure theory
 
-1. terence tao's  notes [🔗](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
+1. terry tao's  notes [🔗](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
 2. introduction to measure and integration by inder rana [iit bombay] [🔗](https://www.amazon.in/Introduction-Measure-Integration-Inder-Rana/dp/8173194300)
 3. krishna jagannathan's probability foundations for electrical engineers [🔗](https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) \
-4. vittal roa's course [🔗](https://www.youtube.com/playlist?list=PL5xeijzKJaIjO5tP5Gzrwhon_VxnWOBKa)
+4. vittal roa's lectures [🔗](https://www.youtube.com/playlist?list=PL5xeijzKJaIjO5tP5Gzrwhon_VxnWOBKa)
 5. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
 6. other standard textbook: royden, folland
 
 #### differential equations
 
-1.mit opencourseware differential equations course[🔗](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) 
+1. mit opencourseware differential equations course[🔗](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) 
 2. steve brunton's youtube course [🔗](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
 3. non-linear dynamics and chaos by steven strogatz [🔗](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering)
 4. [love affiers and differential equations](https://ai.stanford.edu/~rajatr/articles/SS_love_dEq.pdf) by steven strogatz
@@ -107,7 +107,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 1. john cochrane's time series for macroeconomists
 2. introduction to difference equations by saber elaydi
 3. applied time series by enders
-4. time series by hamilton \
+4. time series by hamilton
 
 #### youtube
 1. casual
@@ -115,6 +115,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    2. 3blue1brown
    3. mentour pilot 
    4. oversimplifed 
+   5. parithabangal [tamil]
 2. lectures
    1. steve brunton [🔗](https://www.youtube.com/@Eigensteve/playlists)
    2. jason bramburger [🔗](https://www.youtube.com/@jasonbramburger/playlists)
