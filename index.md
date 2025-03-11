@@ -13,6 +13,7 @@ layout: home
 4. macro musing by david beckworth [🔗](https://www.mercatus.org/macro-musings)
 5. capitalism and freedom in 21st century by jon hartley [🔗](https://www.capitalismandfreedom.com/)
 6. ft's economics show [🔗](https://www.ft.com/the-economics-show)
+7. the core report by govindraj ethiraj [🔗](https://www.youtube.com/@thecore_in)
 
 #### blogs
 tools: inoreader (rss reader), kill-the-newsletter.com (for converting newsletters to rss feeds)
@@ -26,7 +27,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    6. greg mankiw's blog [🔗](https://gregmankiw.blogspot.com/)
    7. the central bank watcher [🔗](https://gianlucabenigno.substack.com/)
    8. the grumpy economist by john cochrane [🔗](https://johnhcochrane.blogspot.com/)
-   9. the gender great divergence [🔗](https://www.ggd.world/)
+   9. the great gender divergence [🔗](https://www.ggd.world/)
 2. news 
    1. ft's newsletters [🔗](https://www.ft.com/newsletters)
    2. reuters' newsletters [🔗](https://www.reuters.com/newsletters/)
@@ -53,6 +54,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    6. bob lucas and his papers, john cochrane [🔗](https://johnhcochrane.blogspot.com/2023/05/bob-lucas-and-his-papers.html)
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf) 
+   9. origins of [euler equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=8%20References-,History,studies%20of%20the%20tautochrone%20problem.) for dummies (including economists) [🔗](https://youtu.be/Q10_srZ-pbs?si=Uol9pOQjjTOC9omD)
 2. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
 3. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
 4. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
@@ -123,6 +125,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 
 1. rubinstein's lecture notes
 2. the evolution of cooperation by robert axelrod
+3. https://ncase.me/trust/
 
 ---
 
@@ -132,5 +135,6 @@ quotes:
 2. “the difficulty lies not so much in developing new ideas as in escaping from old ones.” - keynes
 3. “once one starts to think about growth, it is hard to think about anything else” - lucas
 
+--- 
 
 [^druedahl]:(lecture slides are available in course github repo) 
